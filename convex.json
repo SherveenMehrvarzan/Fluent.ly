@@ -1,0 +1,12 @@
+{
+  "project": "fluently",
+  "team": "sherveenmehrvarzan",
+  "prodUrl": "https://hearty-cassowary-72.convex.cloud",
+  "functions": "convex/",
+  "authInfo": [
+    {
+      "domain": "https://dev-pk0avrgdkak82syr.us.auth0.com/",
+      "applicationID": "IU97iSMds1wtqrQCxD25tZvWwWunUF4R"
+    }
+  ]
+}
